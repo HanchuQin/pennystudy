@@ -14,6 +14,12 @@ mo = '没.*?异.*?味'
 abc = re.search(mo,test)
 print(abc.group(0))
 
+i = 1 
+if i < 100 :
+    i+= 
+else 
+exit():
+
 # if re.search(mo,test):
 #     print('ok')
 # else:
