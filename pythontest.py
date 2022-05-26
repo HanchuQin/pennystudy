@@ -17,3 +17,12 @@ args = (1, 2, 3)
 kw = {'d': 88, 'x': '#'}
 f2(*args, **kw)
 #a = 1 b = 2 c = 3 d = 88 kw = {'x': '#'}
+
+
+
+
+
+
+d = {'x': 'A', 'y': 'B', 'z': 'C' }
+for a, b in d.items():
+     print(a, '=', b)
